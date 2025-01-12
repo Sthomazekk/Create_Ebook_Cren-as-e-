@@ -1,5 +1,5 @@
 # Create_Ebook_Cren-as-e-
-Criacao de ebook para conclusão de modulo de curso DIO
+Criação de Ebook para conclusão de modulo de curso DIO
 
 ## 💻 Tecnologias utilizadas no projeto
 
