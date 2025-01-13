@@ -1,5 +1,5 @@
-# Create_Ebook_Cren-as-e-
-Criação de Ebook para conclusão de modulo de curso DIO
+# Create_Ebook e Podcast
+Criação de Ebook e PodCast para conclusão de modulo de curso DIO
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -22,7 +22,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | um ser humano iluminado em posição de meditação, pixel art style --v 5.1 |
+| título | contorno de um homem de costas inserido numa paisagem,  em posição de meditação, pixel art style --v 5.1  |
 
 ## ✨ Features
 
