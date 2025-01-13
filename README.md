@@ -6,6 +6,7 @@ Criação de Ebook e PodCast para conclusão de modulo de curso DIO
 - [ChatGPT](https://chat.openai.com/) 
 - [Bing](https://www.bing.com/images?FORM=Z9LH)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Elevenlabs](https://elevenlabs.io/text-to-speech) 
 
 ## 🧠 Prompts
 
@@ -18,7 +19,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em crenças limitantes, com uma breve introdução sobre o tema listando 3 tópicos mais importantes sobre o assunto, com exemplos  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -28,11 +29,6 @@ Midjourney：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado com base em ebook de aula da DIO
 
 ## 🛠️ Instruções de execução
 
