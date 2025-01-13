@@ -4,7 +4,7 @@ Criação de Ebook e PodCast para conclusão de modulo de curso DIO
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Bing](https://www.bing.com/images?FORM=Z9LH)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
